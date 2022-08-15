@@ -1,0 +1,5 @@
+Variables: Las variable funcionan como contenedores de datos, donde se puede almacenar valores, pueden ser números, strings, valores booleanos, arrays, incluso funciones, etc.
+Strings: Son cadenas de caracteres que van delimitados por comillas (') por ejemplo 'casa', de cierta manera funcionan como arrays, pues puedes acceder a un caracter en una determinada posición del string.
+Funciones(argumentos, 'return'): Las funciones son código que representa una acción que se va a realizar con datos que se van a introducir a la función, llamados argumentos. Las funciones hacen 'algo', pero la manera de darnos algún resultado, es haciendo un llamado mediante una asignación o un "return".
+Declaraciones 'if': La declaración 'if' se refiere a una condicionante, quiere decir que se ejecuttará cierta parte del código sólo si se cumple una condición, caso contrario la ejecución salta el código que se encuentra por dentro de las llaves de la condición 'íf'.
+Valores booleanos: Se refieren básicamente a valores de 'Verdadero' o 'Falso', se pueden usar para comprobar una condición, o verificar algún valor, también se pueden asiganar a variables de este tipo.
