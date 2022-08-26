@@ -1,0 +1,1 @@
+Funciones Callback: Son funciones que se ejecutan dentro de otra función externa, la cual espera a que se ejecute el callback para continuar.

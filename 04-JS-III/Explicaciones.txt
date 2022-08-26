@@ -1,0 +1,1 @@
+Arrays: Son objetos que almacenan listas de elementos, que pueden ser variables, strings, números, funciones y otros arrays, y se puede acceder a ellos uno por uno o a todos mediante su índice.

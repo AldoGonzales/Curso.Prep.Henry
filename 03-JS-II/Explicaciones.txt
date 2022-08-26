@@ -1,0 +1,4 @@
+'for': El Bucle for sirve para repetir el código que se encuentra en su interior tantas veces como se cumpla la condición declarada. Consta de tres elementos, la declaración de una variable, la expresión condicional y el incremento en la variable.
+'&&': Es un operador lógico (AND) que compara dos valores booleanos, y que retorno true o false, retornando true solamente si ambas valores son true, en las demás situaciones devuelve false.
+'||': Es un operador lógico (OR) que compara dos valores booleanosy que retorno true o false, retornando false solammente si ambas valores son false, en las demás situaciones devuelve true.
+'!': Es un operador lógico (NOT) que actua sobre un sólo valor booleano, devolviendo el valor contrario, si el valor es true, devuelve false y viceversa.

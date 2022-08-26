@@ -1,0 +1,2 @@
+`prototype`: Son una serie de características que se heredan a los objetos que hemos creado.
+_Constructors_ (de Clases):El construcotr crea un nuevo objeto en base a un objeto creado dentro de una clase, dentro de la clase sólo puede haber un constructor
